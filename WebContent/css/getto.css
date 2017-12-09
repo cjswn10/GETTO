@@ -1,0 +1,25 @@
+@CHARSET "EUC-KR";
+body{
+	background:url(image/bg3.png);
+	font-size:11px;
+}
+
+img {border:none}
+
+input[type="submit"],[type="reset"],[type="button"] {
+	height: 25px;
+	width:80px;
+}
+
+input[type="image"] {
+	border:none;
+}
+table {
+	border: 0;
+}
+
+h2{
+	font-size: 25px;	
+	font-weight: bold;
+	backgroundcolor: gray;
+}
